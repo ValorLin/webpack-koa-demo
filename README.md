@@ -1,5 +1,5 @@
 # webpack-koa-demo
-Webpack demo that compile koa@2 code into a single bundle that don't rely on node_modules.
+Webpack demo that compile koa@2 code into a single bundle which don't rely on node_modules.
 
 ## Features
 0. Generate executable js file without any dependencies.
